@@ -1,6 +1,6 @@
 <div align="center">
 <p> 
-<a href=""https://www.linkedin.com/infernus01/" target="_blank" >
+<a href=""https://www.linkedin.com/infernus01/" target="_blank" rel="noopener noreferrer">
 <img align="center" src="https://user-images.githubusercontent.com/89133323/188582905-b1b1e431-06a2-41cc-bc13-7a57474faad4.svg" alt="infernus01" />
 </a> 
 </p>
