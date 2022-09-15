@@ -13,7 +13,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=infernus01&theme=radical" alt="infernus01" /></a> </p>
 
-<p align="center"> <a href="https://twitter.com/infernus_01" target="blank"><img src="https://img.shields.io/twitter/follow/infernus_01?logo=twitter&style=for-the-badge" alt="infernus_01" /></a> </p>
+<p align="center"> <a href="https://twitter.com/infernus_01" target="blank"><img src="https://img.shields.io/twitter/follow/infernus_01?logo=twitter&theme=radical&style=for-the-badge" alt="infernus_01" /></a> </p>
 
 - 🌱 I’m currently learning **React JS**
 
