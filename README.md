@@ -37,4 +37,4 @@
 <div align="center">
 <p> <img align="center" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2F3.bp.blogspot.com%2F-Nlc11xYi3Vc%2FW5tAlXVs66I%2FAAAAAAAACVw%2FEZaYFURgHzkUM3EDa-Qbzsp50n3YmAlzQCK4BGAYYCw%2Fs1600%2FXMlE.gif&f=1&nofb=1" alt="infernus01" /></p>
 </div>
-<div align="center"><img height="auto" width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=infernus01&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="Shubham Bhardwaj" /></div>
+
