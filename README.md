@@ -7,7 +7,7 @@
 </div>
 <!-- <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=infernus01&show_icons=true&locale=en&theme=radical" alt="infernus01" /></p> -->
 <h1 align="center">Hi 👋, I'm Shubham Bhardwaj</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">Software Engineering Enthusiast</h3>
 
 
 
@@ -55,7 +55,8 @@
 <p> <img align="center" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2F3.bp.blogspot.com%2F-Nlc11xYi3Vc%2FW5tAlXVs66I%2FAAAAAAAACVw%2FEZaYFURgHzkUM3EDa-Qbzsp50n3YmAlzQCK4BGAYYCw%2Fs1600%2FXMlE.gif&f=1&nofb=1" alt="infernus01" /></p>
 </div>
 
-<div align="center">
+<!--<div align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=infernus01&theme=radical" alt="infernus01" />
 
 </div>
+-->
