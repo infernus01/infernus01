@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently learning **React JS**
 
-- 💬 Ask me about **Frond-End Development**
+- 💬 Ask me about **Data Structures & Algorithms**
 
 - 📫 How to reach me **sbmbhardwaj01@gmail.com**
 
