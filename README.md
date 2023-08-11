@@ -7,7 +7,13 @@
 </div>
 <!-- <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=infernus01&show_icons=true&locale=en&theme=radical" alt="infernus01" /></p> -->
 <h1 align="center">Hi 👋, I'm Shubham Bhardwaj</h1>
+
 <h3 align="center">Software Engineering Enthusiast</h3>
+
+
+
+<!-- <span align="center"> [![infernus01's GitHub | Stats](https://stats.quine.sh/infernus01/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=infernus01) </span> -->
+  
 
 
 
