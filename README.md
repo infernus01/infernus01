@@ -10,12 +10,15 @@
 
 <h3 align="center">Software Engineering Enthusiast</h3>
 
+<!--<div align="center" style="Display:"block">
+
+[![infernus01's GitHub | Stats](https://stats.quine.sh/infernus01/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=infernus01)
 
 
 <!-- <span align="center"> [![infernus01's GitHub | Stats](https://stats.quine.sh/infernus01/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=infernus01) </span> -->
   
 
-
+</div> -->
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=infernus01&theme=radical" alt="infernus01" /></a> </p>
 
