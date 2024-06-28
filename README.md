@@ -8,7 +8,7 @@
 <!-- <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=infernus01&show_icons=true&locale=en&theme=radical" alt="infernus01" /></p> -->
 <h1 align="center">Hi 👋, I'm Shubham Bhardwaj</h1>
 
-<h3 align="center">Software Engineering Enthusiast</h3>
+<h3 align="center">Software Engineer Enthusiast</h3>
 
 <!--<div align="center" style="Display:"block">
 
@@ -24,7 +24,7 @@
 
 <p align="center"> <a href="https://twitter.com/infernus_01" target="blank"><img src="https://img.shields.io/twitter/follow/infernus_01?logo=twitter&theme=radical&style=for-the-badge" alt="infernus_01" /></a> </p>
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 Open to **Software Development** opportunities
 
 - 💬 Ask me about **Data Structures & Algorithms**
 
