@@ -8,7 +8,7 @@
 <!-- <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=infernus01&show_icons=true&locale=en&theme=radical" alt="infernus01" /></p> -->
 <h1 align="center">Hi 👋, I'm Shubham Bhardwaj</h1>
 
-<h3 align="center">Software Engineer</h3>
+<h3 align="center">Software Engineer at RedHat</h3>
 
 # 📊 My GitHub Stats
 
