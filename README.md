@@ -8,7 +8,7 @@
 <!-- <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=infernus01&show_icons=true&locale=en&theme=radical" alt="infernus01" /></p> -->
 <h1 align="center">Hi 👋, I'm Shubham Bhardwaj</h1>
 
-<h3 align="center">Software Engineer at RedHat</h3>
+<h3 align="center">Engineering at RedHat<img src="https://logowiki.net/uploads/logo/r/red-hat.svg" height="48" width="48"/></h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=infernus01&hide=issues&show_icons=true&theme=tokyonight&custom_title=Code+Stats" height="165">
@@ -40,7 +40,6 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/sbmbhardwaj_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/x.svg" alt="infernus_01" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/infernus01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="infernus01" height="30" width="40" /></a>
 </p>
 
