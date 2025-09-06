@@ -10,18 +10,12 @@
 
 <h3 align="center">Software Engineer at RedHat</h3>
 
-# 📊 My GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=infernus01&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=infernus01&hide=issues&show_icons=true&theme=tokyonight&custom_title=Code+Stats" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=infernus01&layout=compact&theme=tokyonight&langs_count=8" height="165">
 </p>
 
-### 🏆 Top Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=infernus01&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
 
-### 🛠️ My Tools & Technologies
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
   <img src="https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white" alt="Podman"/>
@@ -36,10 +30,6 @@
 
 ---
 
-
-
-<p align="center"> <a href="https://twitter.com/infernus_01" target="blank"><img src="https://img.shields.io/twitter/follow/infernus_01?logo=twitter&theme=radical&style=for-the-badge" alt="infernus_01" /></a> </p>
-
 - 🌱 Open to **Software Development** opportunities
 
 - 💬 Ask me about **Data Structures & Algorithms**
@@ -50,7 +40,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/infernus_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="infernus_01" height="30" width="40" /></a>
+<a href="https://twitter.com/sbmbhardwaj_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/x.svg" alt="infernus_01" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/infernus01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="infernus01" height="30" width="40" /></a>
 </p>
 
@@ -63,4 +53,4 @@
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=infernus01&theme=radical" alt="infernus01" />
 
 </div>
--->
+
