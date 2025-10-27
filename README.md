@@ -10,10 +10,10 @@
 
 <h3 align="center">Engineering at RedHat<img src="https://logowiki.net/uploads/logo/r/red-hat.svg" height="48" width="48"/></h3>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=infernus01&hide=issues&show_icons=true&theme=tokyonight&custom_title=Code+Stats" height="165">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=infernus01&layout=compact&theme=tokyonight&langs_count=8" height="165">
-</p>
+</p> -->
 
 
 <p align="center">
@@ -29,7 +29,7 @@
 </p>
 
 ---
-
+<!--
 - 🌱 Open to **Software Development** opportunities
 
 - 💬 Ask me about **Data Structures & Algorithms**
@@ -37,7 +37,7 @@
 - 📫 How to reach me **sbmbhardwaj01@gmail.com**
 
 - ⚡ Fun fact **Drinking tons of water**
-
+-->
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/infernus01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="infernus01" height="30" width="40" /></a>
